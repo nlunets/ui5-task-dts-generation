@@ -1,0 +1,13 @@
+{
+  "name": "ui5-task-dts-generation",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:nlunets/ui5-task-dts-generation.git",
+  "author": "Nicolas Lunet <nicolas.lunet@sap.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@ui5/dts-generator": "^1.60.3",
+    "@ui5/fs": "^1.1.2",
+    "typescript": "^3.6.4"
+  }
+}
